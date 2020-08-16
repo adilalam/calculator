@@ -1,15 +1,18 @@
 {
   "name": "adilcalculator",
-  "version": "1.0.0",
-  "description": "a simple calculator function",
+  "version": "1.0.3",
+  "description": "simple bug fix",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "calculator"
+    "url": "https://github.com/adilalam/calculator.git"
   },
+  "keywords": [
+    "calculator"
+  ],
   "author": "adilalam",
   "license": "ISC"
 }
