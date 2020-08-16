@@ -1,6 +1,6 @@
 {
   "name": "adilcalculator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple bug fix",
   "main": "index.js",
   "scripts": {
